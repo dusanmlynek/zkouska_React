@@ -1,5 +1,5 @@
 /* eslint-disable */
-export const dogs = [
+const dogs = [
   {
     id: 1,
     name: "Rex",
@@ -31,3 +31,4 @@ export const dogs = [
     age: 3,
   },
 ];
+export default dogs;
